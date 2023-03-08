@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049560466751",
+    "project_id": "fltr-blood-donation",
+    "storage_bucket": "fltr-blood-donation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049560466751:android:07f7de75e25b0199c73f8a",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049560466751-jfp5620aqm758t0qplm46cie7endsv72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPM5SpiMdf2mzn4mNpELgU2SkSwAYWKoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049560466751-jfp5620aqm758t0qplm46cie7endsv72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
